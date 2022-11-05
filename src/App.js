@@ -17,7 +17,8 @@ function App() {
       <div className="rightSection">
       <div className="textDiv">
         <div className='textBox'>
-          <span className='title'>Important</span>
+          <span className='title'>
+ Important</span>
           <div className='desc'>
             <p>Remplissez avec <span className='bold'>précision</span>  toutes les sections de ce formulaire et donnez le maximum d’informations sur votre œuvre. <br /> <br /> Les champs marqués d’un <span className='bold'>astérisque (*)</span>  sont obligatoires.</p>
           </div>
